@@ -1,37 +1,11 @@
-# Astro Starter Kit: Minimal
+# 我的个人博客
 
-```sh
-yarn create astro@latest -- --template minimal
-```
+[![Open in netlify](https://www.netlify.com/img/deploy/button.svg)](https://zhuming-blog.netlify.app/)
+[![Open in GitHub](https://github.com/codespaces/badge.svg)](https://github.com/zhumingio/learn-astro.git)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/minimal)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/minimal)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/minimal/devcontainer.json)
+## 🧞 说明
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
-
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
-
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
+这是我学习astro时搭建的一个个人博客，使用netlify部署，可以执行下列命令来运行或构建本项目：
 
 | Command                   | Action                                           |
 | :------------------------ | :----------------------------------------------- |
@@ -42,6 +16,10 @@ All commands are run from the root of the project, from a terminal:
 | `yarn astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `yarn astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
+## 👀 其他
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+更多的学习内容需要点击 [astro官方文档](https://docs.astro.build) 或者跳转到[官方Discord服务器](https://astro.build/chat).
+
+## 特别备注
+
+主题颜色: `#6c06cc`

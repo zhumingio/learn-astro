@@ -4,7 +4,7 @@ html {
 }
 
 html.dark {
-  background-color: #0d0950;
+  background-color: #141414;
   color: #fff;
 }
 
@@ -43,14 +43,15 @@ h1 {
   width: 40px;
   height: 5px;
   margin-bottom: 10px;
-  background-color: #ff9776;
+  border-radius: 20%;
+  background-color: #6c06cc;
 }
 
 .nav-links {
   width: 100%;
   top: 5rem;
   left: 48px;
-  background-color: #ff9776;
+  background-color: #6c06cc;
   display: none;
   margin: 0;
 }
@@ -67,7 +68,9 @@ h1 {
 
 .nav-links a:hover,
 .nav-links a:focus {
-  background-color: #ff9776;
+  background-color: #6c06cc;
+  color: #fff;
+    border-radius: 5%;
 }
 
 .expanded {
@@ -86,7 +89,7 @@ h1 {
   .nav-links a {
     display: inline-block;
     padding: 15px 20px;
-    color: red;
+    color: rgb(0, 0, 0);
     font-size: 1rem;
   }
   .hamburger {
